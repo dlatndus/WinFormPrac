@@ -26,5 +26,10 @@ namespace WinFormPrac
         {
             MessageBox.Show("안녕하세요");
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
